@@ -22,7 +22,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://social-proof-section-snowy-two.vercel.app/)
 
 ## My process
 
@@ -30,8 +30,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
 - ["Spartan" Google fonts](https://fonts.google.com/specimen/Spartan?preview.text_type=custom) - For styles
 
 ### What I learned
