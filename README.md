@@ -21,7 +21,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/html-css-added-hover-effect-to-review-cards-QEbgzb0hP)
 - Live Site URL: [Vercel](https://social-proof-section-snowy-two.vercel.app/)
 
 ## My process
